@@ -15,4 +15,5 @@ PHP + MySQL ile geliştirilen  sanal pos sistemi.
 - MySQL 5.7+
 - Web Server (Apache, Nginx, vb.)
 
+
 - HÜSEYİN AYDIN - ROSKYDEV
