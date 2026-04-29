@@ -1,4 +1,4 @@
-PHP + MySQL ile geliştirilen  sanal pos sistemi.
+PHP + MySQL ile geliştirilen pos sistemi.
 
 ## Özellikler ✨
 
